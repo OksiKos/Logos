@@ -1,0 +1,50 @@
+.main-form{
+    background: #9b59b6 ;
+    width: 400px;
+    margin: 5px auto;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #ecf0f1;
+    border: red;
+}
+.form-title{
+   margin: 0px;
+   font-family: sans-serif;
+   font-size: 30px;
+}
+.form-title2{
+   margin: 10px auto;
+   font-family: sans-serif;
+}
+.main-form label{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.main-form input{
+    width: 100%;
+    margin: 5px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border-style: hidden;
+}
+.main-form input[type=radio]{
+    margin: -190px;
+
+}
+  input[type=submit]{
+   background: #2ecc71 ;
+   /* border-style: hidden; */
+   font-size: 20px;
+   color: #ecf0f1;
+   border-radius: 20px;
+   font-family: sans-serif;
+   margin: 10px auto;
+  }
+.par2{
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 15px;
+     margin: 5px auto;
+  }
